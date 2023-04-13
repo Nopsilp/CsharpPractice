@@ -1,0 +1,15 @@
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\bin\Debug\net6.0\Obj2HomeWorkLibrarySystem.exe
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\bin\Debug\net6.0\Obj2HomeWorkLibrarySystem.deps.json
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\bin\Debug\net6.0\Obj2HomeWorkLibrarySystem.runtimeconfig.json
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\bin\Debug\net6.0\Obj2HomeWorkLibrarySystem.dll
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\bin\Debug\net6.0\Obj2HomeWorkLibrarySystem.pdb
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.AssemblyInfo.cs
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.dll
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\refint\Obj2HomeWorkLibrarySystem.dll
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.pdb
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\Obj2HomeWorkLibrarySystem.genruntimeconfig.cache
+C:\Users\Nop\source\repos\Obj2HomeWorkLibrarySystem\Obj2HomeWorkLibrarySystem\obj\Debug\net6.0\ref\Obj2HomeWorkLibrarySystem.dll
